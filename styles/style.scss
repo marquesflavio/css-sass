@@ -1,6 +1,8 @@
+//essa é a forma de declarar variáveis no sass
 $cor-principal:#CA4E79;
 $cor-secundaria:#513252;
 
+//essa é a forma de declarar funções no sass, com ou sem parâmetros.
 @mixin reset(){
     margin: 0;
     padding: 0;
